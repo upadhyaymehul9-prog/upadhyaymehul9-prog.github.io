@@ -1,8 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.upadhyaymehul9_prog.twa",
-    "sha256_cert_fingerprints": ["DC:48:83:00:83:D9:E3:C3:A5:91:67:7B:DD:E9:28:41:91:59:CF:1F:3B:E9:D1:F4:13:D7:23:CC:47:62:6B:7B"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.upadhyaymehul9_prog.twa",
+      "sha256_cert_fingerprints": [
+        "DC:48:83:00:83:D9:E3:C3:A5:91:67:7B:DD:E9:28:41:91:59:CF:1F:3B:E9:D1:F4:13:D7:23:CC:47:62:6B:7B"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bookmyclinic.app",
+      "sha256_cert_fingerprints": [
+        "6B:70:AD:AB:D6:D9:E6:C1:39:BA:D5:87:E7:5F:AE:EE:F2:9F:31:04:51:66:9D:BF:9F:05:39:07:5A:E2:0F:52"
+      ]
+    }
   }
-}]
+]
